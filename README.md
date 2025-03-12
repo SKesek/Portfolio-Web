@@ -1,2 +1,2 @@
 # Portfolio
- My webside with portoflio. IN PROGRESS
+ My website with portoflio. IN PROGRESS
