@@ -1,0 +1,8 @@
+.img-fluid{
+    border-radius: 25%;
+}
+
+section{
+background: rgb(33,28,132);
+background: linear-gradient(153deg, rgba(33,28,132,1) 0%, rgba(77,85,204,1)55%, rgba(122,115,209,1) 100%);  
+}
